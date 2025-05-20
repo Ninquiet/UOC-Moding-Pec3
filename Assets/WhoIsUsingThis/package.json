@@ -1,0 +1,15 @@
+{
+  "name": "com.denizbicer.whoisusingthis",
+  "version": "1.2.0",
+  "displayName": "Who Is Using This?",
+  "unity": "2019.4",
+  "description": "Who is using this plugin is an Editor extension, which makes it possible to show all game objects that use the pinned game object in the hierarchy window.",
+  "documentationUrl": "https://denizbicer.com/wp-content/uploads/2023/05/Documentation_Who_is_using_this_v1_2_0.pdf",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Deniz Bi\u00e7er",
+    "email": "support@denizbicer.com",
+    "url": "https://denizbicer.com/"
+  }
+}

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 65da2a193c0744bb8e0dbc0fbf4a21a5
+timeCreated: 1647605258
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216623
+  packageName: Who is using this? - Scene Reference Finder
+  packageVersion: 1.2.0
+  assetPath: Assets/WhoIsUsingThis/Editor/UsageRenderer.cs
+  uploadId: 589273

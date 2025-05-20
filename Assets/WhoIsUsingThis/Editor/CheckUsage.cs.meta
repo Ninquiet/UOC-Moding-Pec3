@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d218f1e66ee614639917d8e9bbe13c6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216623
+  packageName: Who is using this? - Scene Reference Finder
+  packageVersion: 1.2.0
+  assetPath: Assets/WhoIsUsingThis/Editor/CheckUsage.cs
+  uploadId: 589273

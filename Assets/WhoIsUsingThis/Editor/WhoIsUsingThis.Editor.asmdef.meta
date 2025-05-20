@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efd8257c42933473cb25a6d61ce95b92
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216623
+  packageName: Who is using this? - Scene Reference Finder
+  packageVersion: 1.2.0
+  assetPath: Assets/WhoIsUsingThis/Editor/WhoIsUsingThis.Editor.asmdef
+  uploadId: 589273
